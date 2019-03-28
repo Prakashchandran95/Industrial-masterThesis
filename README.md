@@ -1,5 +1,5 @@
 # Industrial-masterThesis
-                              Vision and Sensor-based safety system for autonomous robot
+                             Vision and sensor-based intelligent safety system for autonomous robot
 To implement all the functionality together the system with three main modules as shown below was proposed.
 The main advantage of the system was to detect the humans in the time to time changing environment and sensing their distance accurately up to the range of 4 meters without any predetermined position for the system.
 Those three main modules include the Raspberry Pi camera V2, stepper motor and an ultrasonic sensor (HCSR-04).
