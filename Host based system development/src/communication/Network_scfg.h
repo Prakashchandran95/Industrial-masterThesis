@@ -40,8 +40,7 @@ extern "C"
 //#define SERVER_PORT		    52000
 //#define RPI_PORT		    53000
 //#define MASTER_PORT		52000
-//#define SLAVE_1_PORT	    53000
-//#define SLAVE_2_PORT	    54000
+
 
 #define SLAVE_CONNECTION_TIMEOUT    1
 
