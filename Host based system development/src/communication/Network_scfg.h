@@ -27,8 +27,7 @@ extern "C"
 //#define RPI_NETWORK_SERVER  FALSE
 //#define RPI_NETWORK_SLAVE  TRUE
 
-//#define SERVER_IP	        "192.168.10.112" // Damian
-//#define SERVER_IP	        "192.168.10.111" // dawid
+
 #define SERVER_IP	        "192.168.10.222" // and
 #define RPI_M1_SLAVE1_IP	"192.168.10.11"
 #define RPI_M1_SLAVE2_IP	"192.168.10.12"
