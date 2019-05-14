@@ -1,9 +1,4 @@
-/*
- * hog.h
- *
- *  Created on: May 22, 2018
- *      Author: intema
- */
+
 
 #ifndef HOG_H_
 #define HOG_H_
