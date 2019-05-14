@@ -1,9 +1,4 @@
-/*
- * video.h
- *
- *  Created on: May 22, 2018
- *      Author: intema
- */
+
 #include <opencv2/opencv.hpp>
 #include <opencv2/core/core.hpp>
 #include <opencv2/imgproc/imgproc.hpp>
